@@ -6,6 +6,7 @@
 
 @import KissXML;
 @import CocoaAsyncSocket;
+@import SocketRocket;
 
 //#import <KissXML/KissXML.h>
 //#import <CocoaAsyncSocket/GCDAsyncSocket.h>
